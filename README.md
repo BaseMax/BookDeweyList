@@ -2,12 +2,15 @@
 
 List of book category and subject in Dewey List.
 
-## Data
+## Featues and Data
 
+- Support Persian and English Language
 - Copy data from wikipedia content
 - Remove extra text, code from file
 - Parse html code
 - Generate JSON output
+- Extract all words and persian text
+- Translate all of names to English (Using https://translate.googleusercontent.com/)
 
 **See JSON file at [here](output.json)**
 
