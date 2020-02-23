@@ -50,7 +50,7 @@ https://www.oclc.org/en/dewey.html
 
 #### Lists
 
-<h2><span id="Class_000_.E2.80.93_Computer_science.2C_information_.26_general_works"></span><span class="mw-headline" id="Class_000_–_Computer_science,_information_&amp;_general_works">Class 000 – Computer science, information &amp; general works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 000 – Computer science, information &amp; general works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_000_.E2.80.93_Computer_science.2C_information_.26_general_works"></span><span class="mw-headline" id="Class_000_–_Computer_science,_information_&amp;_general_works">Class 000 – Computer science, information &amp; general works</span></h2>
 <ul><li><b>000 Computer science, knowledge &amp; systems</b>
 <ul><li>000 <a title="Outline of computer science">Computer science</a>, information &amp; general works</li>
 <li>001 <a title="Outline of knowledge">Knowledge</a></li>
@@ -149,7 +149,7 @@ https://www.oclc.org/en/dewey.html
 <li>097 Books notable for ownership or origin</li>
 <li>098 Prohibited works, forgeries, and hoaxes</li>
 <li>099 Books notable for format</li></ul></li></ul>
-<h2><span id="Class_100_.E2.80.93_Philosophy_.26_psychology"></span><span class="mw-headline" id="Class_100_–_Philosophy_&amp;_psychology">Class 100 – Philosophy &amp; psychology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 100 – Philosophy &amp; psychology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_100_.E2.80.93_Philosophy_.26_psychology"></span><span class="mw-headline" id="Class_100_–_Philosophy_&amp;_psychology">Class 100 – Philosophy &amp; psychology</span></h2>
 <ul><li><b>100 <a title="Outline of philosophy">Philosophy</a></b>
 <ul><li>100 Philosophy &amp; psychology</li>
 <li>101 Theory of philosophy</li>
@@ -259,7 +259,7 @@ https://www.oclc.org/en/dewey.html
 <li>197 <a title="Philosophy in the Soviet Union">Philosophy of Russia</a></li>
 <li>198 Philosophy of Scandinavia &amp; Finland</li>
 <li>199 Philosophy in other geographic areas</li></ul></li></ul>
-<h2><span id="Class_200_.E2.80.93_Religion"></span><span class="mw-headline" id="Class_200_–_Religion">Class 200 – Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 200 – Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_200_.E2.80.93_Religion"></span><span class="mw-headline" id="Class_200_–_Religion">Class 200 – Religion</span></h2>
 <ul><li><b>200 <a title="Outline of religion">Religion</a></b>
 <ul><li>200 Religion</li>
 <li>201 Religious <a class="mw-redirect" title="Mythology">mythology</a>, general classes of religion, interreligious relations and attitudes, social theology</li>
@@ -370,7 +370,7 @@ https://www.oclc.org/en/dewey.html
 <li>297 <a title="Islam">Islam</a>, <a title="Bábism">Bábism</a> &amp; <a class="mw-redirect" title="Bahá'í Faith">Bahá'í Faith</a></li>
 <li>298 <i>No longer used—formerly <a title="Mormonism">Mormonism</a> </i></li>
 <li>299 Religions not provided for elsewhere</li></ul></li></ul>
-<h2><span id="Class_300_.E2.80.93_Social_sciences"></span><span class="mw-headline" id="Class_300_–_Social_sciences">Class 300 – Social sciences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 300 – Social sciences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_300_.E2.80.93_Social_sciences"></span><span class="mw-headline" id="Class_300_–_Social_sciences">Class 300 – Social sciences</span></h2>
 <ul><li><b>300 <a title="Social science">Social sciences</a></b>, sociology &amp; anthropology
 <ul><li>300 Social sciences</li>
 <li>301 <a title="Sociology">Sociology</a> &amp; <a title="Anthropology">anthropology</a></li>
@@ -481,7 +481,7 @@ https://www.oclc.org/en/dewey.html
 <li>397 <i>No longer used—formerly <a title="Outcast (person)">outcast</a> studies </i></li>
 <li>398 <a title="Folklore">Folklore</a></li>
 <li>399 Customs of war &amp; <a title="Diplomacy">diplomacy</a></li></ul></li></ul>
-<h2><span id="Class_400_.E2.80.93_Language"></span><span class="mw-headline" id="Class_400_–_Language">Class 400 – Language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 400 – Language">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_400_.E2.80.93_Language"></span><span class="mw-headline" id="Class_400_–_Language">Class 400 – Language</span></h2>
 <ul><li><b>400 <a title="Language">Language</a></b>
 <ul><li>400 Language</li>
 <li>401 <a title="Philosophy of language">Philosophy</a> &amp; theory; international languages</li>
@@ -592,7 +592,7 @@ https://www.oclc.org/en/dewey.html
 <li>497 <a title="Indigenous languages of the Americas">North American native languages</a></li>
 <li>498 <a title="Indigenous languages of the Americas">South American native languages</a></li>
 <li>499 Non-Austronesian languages of Oceania, Austronesian languages, miscellaneous languages</li></ul></li></ul>
-<h2><span id="Class_500_.E2.80.93_Science"></span><span class="mw-headline" id="Class_500_–_Science">Class 500 – Science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 500 – Science">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_500_.E2.80.93_Science"></span><span class="mw-headline" id="Class_500_–_Science">Class 500 – Science</span></h2>
 <ul><li><b>500 <a title="Science">Science</a></b>
 <ul><li>500 Natural sciences &amp; mathematics</li>
 <li>501 Philosophy &amp; theory</li>
@@ -703,7 +703,7 @@ https://www.oclc.org/en/dewey.html
 <li>597 Cold-blooded vertebrates</li>
 <li>598 <a title="Bird">Aves</a> (Birds)</li>
 <li>599 <a title="Mammal">Mammalia</a> (Mammals)</li></ul></li></ul>
-<h2><span id="Class_600_.E2.80.93_Technology"></span><span class="mw-headline" id="Class_600_–_Technology">Class 600 – Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 600 – Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_600_.E2.80.93_Technology"></span><span class="mw-headline" id="Class_600_–_Technology">Class 600 – Technology</span></h2>
 <ul><li><b>600 <a title="Outline of technology">Technology</a></b>
 <ul><li>600 Technology (Applied sciences)</li>
 <li>601 Philosophy &amp; theory</li>
@@ -835,7 +835,7 @@ https://www.oclc.org/en/dewey.html
 <li>697 <a class="mw-redirect" title="HVAC">Heating</a>, <a class="mw-redirect" title="Ventilating">ventilating</a>, <a class="mw-redirect" title="Air-conditioning">air-conditioning</a> engineering</li>
 <li>698 Detail finishing</li>
 <li>699 <i>Not assigned or no longer used</i></li></ul></li></ul>
-<h2><span id="Class_700_.E2.80.93_Arts_.26_recreation"></span><span class="mw-headline" id="Class_700_–_Arts_&amp;_recreation">Class 700 – Arts &amp; recreation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 700 – Arts &amp; recreation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_700_.E2.80.93_Arts_.26_recreation"></span><span class="mw-headline" id="Class_700_–_Arts_&amp;_recreation">Class 700 – Arts &amp; recreation</span></h2>
 <ul><li><b>700  <a class="mw-redirect" title="Arts">Arts</a></b>
 <ul><li>700 The Arts</li>
 <li>701 <a class="mw-redirect" title="Philosophy of art">Philosophy</a> &amp; <a title="Aesthetics">theory</a> of fine &amp; decorative arts</li>
@@ -946,7 +946,7 @@ https://www.oclc.org/en/dewey.html
 <li>797 Aquatic &amp; air sports</li>
 <li>798 <a class="mw-redirect" title="Equestrian sports">Equestrian sports</a> &amp; animal racing</li>
 <li>799 <a title="Fishing">Fishing</a>, <a title="Hunting">hunting</a>, <a title="Shooting">shooting</a></li></ul></li></ul>
-<h2><span id="Class_800_.E2.80.93_Literature"></span><span class="mw-headline" id="Class_800_–_Literature">Class 800 – Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 800 – Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_800_.E2.80.93_Literature"></span><span class="mw-headline" id="Class_800_–_Literature">Class 800 – Literature</span></h2>
 <ul><li><b>800 <a title="Outline of literature">Literature</a>, <a title="Rhetoric">rhetoric</a> &amp; <a title="Literary criticism">criticism</a></b>
 <ul><li>800 Literature (<a title="Belles-lettres">Belles-lettres</a>) &amp; rhetoric</li>
 <li>801 Philosophy &amp; theory</li>
@@ -1058,7 +1058,7 @@ https://www.oclc.org/en/dewey.html
 <li>897 Literatures of North American native languages</li>
 <li>898 Literatures of South American native languages</li>
 <li>899 Literatures of non-Austronesian languages of Oceania, of Austronesian languages, of miscellaneous languages</li></ul></li></ul>
-<h2><span id="Class_900_.E2.80.93_History_.26_geography"></span><span class="mw-headline" id="Class_900_–_History_&amp;_geography">Class 900 – History &amp; geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Class 900 – History &amp; geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Class_900_.E2.80.93_History_.26_geography"></span><span class="mw-headline" id="Class_900_–_History_&amp;_geography">Class 900 – History &amp; geography</span></h2>
 <ul><li><b>900 <a title="Outline of history">History</a></b>
 <ul><li>900 History, geography, &amp; auxiliary disciplines</li>
 <li>901 Philosophy &amp; theory of history</li>
