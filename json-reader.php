@@ -1,8 +1,8 @@
 <?php
 // Max Base
 // https://github.com/BaseMax/BookDeweyList
-$data=file_get_contents("output.json");
-$data=json_decode($data, true);
+$dataFile=file_get_contents("output.json");
+$data=json_decode($dataFile, true);
 // print_r($data);
 readJson($data);
 
