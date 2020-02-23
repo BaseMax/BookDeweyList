@@ -16,7 +16,7 @@ foreach($output["content"] as $x=>$item) {
 	// ۰۱۲۳۴۵۶۷۸۹
 	$category["code"]=mb_substr($output["title"][$x], 4, 3);
 	$category["codeEN"]=toEN($category["code"]);
-	$name=mb_substr($name, mb_strlen("ردهٔ ۰۰۰ – "));
+	$name=mb_substr($name, mb_strlen("ردهٔ ۰۰۰ –"));
 	// $name=preg_replace('/ردهٔ ( {***/۰۱۲۳۴۵۶۷۸۹/***} ) – /i', "", $name);
 	$category["name"]=$name;
 	$category["children"]=[];
