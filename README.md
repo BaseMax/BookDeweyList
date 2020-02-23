@@ -7,13 +7,18 @@ List of book category and subject in Dewey List.
 - Copy data from wikipedia content
 - Remove extra text, code from file
 - Parse html code
-- Generate JSON output (soon)
+- Generate JSON output
+
+**See JSON file at [here](output.json)**
 
 ## Using
 
 ```
+$ cat input.html
 $ php normalize.php
+$ cat input-normal.html
 $ php parser.php
+$ cat output.json
 ```
 
 ## Lists
