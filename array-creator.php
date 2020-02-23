@@ -44,5 +44,5 @@ function readJson($data) {
 		}
 	}
 }
-file_put_contents("list.json", $dataFile);
+file_put_contents("list.json", $output);
 print_r($output);
