@@ -43,7 +43,9 @@ foreach($output["content"] as $x=>$item) {
 		// print_r($items);
 		$category["children"][]=$itm;
 	}
-	print_r($category);
+	// print_r($category);
 	$finalOutput[]=$category;
-	exit();
+	// exit();
 }
+print_r($finalOutput);
+file_put_contents("output.json", json_encode($finalOutput));
