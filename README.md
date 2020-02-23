@@ -14,12 +14,19 @@ List of book category and subject in Dewey List.
 
 **See JSON file at [here](output.json)**
 
+**See JSON in the demo HTML file at [here](https://basemax.github.io/BookDeweyList/preview/index.html)**
+
+--------
+
 ## Using
 
 ```
 $ cat input.html
 $ php normalize.php
 $ cat input-normal.html
+
+$ php json-reader.php
+
 $ php parser.php
 $ cat output.json
 ```
